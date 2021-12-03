@@ -37,7 +37,7 @@ uses an imported texture that rotates over time to mimic moving water, Jellyfish
 7) Sound: a chomping sound each time a turtle eats a fish and there is background music which can be toggled on and off
 8) Lighting: Light source from above that illuminates the entire tank, can change color when ‘c’ is pressed to mimic color-changing features of real life fish tanks
 9) Camera: Camera view is changed during the intro animation 
-10) Animation: Intro scene provides a storyline for the game + behavioral animation on Jellyfish to imitate its real-life movements
+10) Animation: Intro scene provides a storyline for the game + behavioral animation on jellyfish & squid to imitate its real-life movements
 
 **Bugs**
 - Sharks may at times swim through each other 
@@ -48,8 +48,8 @@ uses an imported texture that rotates over time to mimic moving water, Jellyfish
 **Contributors**
 
 Rachel Nguyen // rachelnguyn@gmail.com // rachnguyn // 205213689
-- Set up foundation/environment, shadows, mouse picking + detection, animations (intro scene, Jellyfish, + tips), sound effects, camera & lighting, <br>
+- Set up foundation/environment, shadows, mouse picking + detection, animations, sound effects, camera & lighting, <br>
   scene graph (creating the animals), aesthetics (texture, custom shading, loading/start/pause/gameover screens, objects) 
 
 Daniel Medina // dmedinag@g.ucla.edu // dmedinag29 // 204971333
-- Collision detection, point system, dynamic object instantiation, arrow-key interactions, text
+- Collision detection, point system, dynamic object instantiation, arrow-key interactions, texts
