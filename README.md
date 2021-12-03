@@ -13,10 +13,12 @@ loses one life, the sharks will spawn faster and the turtle will scale slightly 
 
 ## Run the Game
 Go To: https://rachnguyn.github.io/turtlemania/ <br> (must click on loading screen at very start to queue music) <br> <br>
-or 
-1) MacOS: ./host.command <br>
-   Windows: host.bat <br>
-2) Open browser and go to http://localhost:8080
+or
+1) Download the repository
+2) Run the included file according to your system <br>
+   **MacOS:** host.command <br>
+   **Windows:** host.bat <br>
+3) Open browser and go to http://localhost:8080
 
 ## How to Play
 
