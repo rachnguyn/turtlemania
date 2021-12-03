@@ -24,20 +24,20 @@ loses one life, the sharks will spawn faster and the turtle will scale slightly 
  
 ## Features
 
-1) User Interaction (Movement Control): player will navigate the turtle up, down, left, and right using the arrow keys
-2) Collision detection: turtle interacting with prey and predator
+1) _**User Interaction (Movement Control):**_ player will navigate the turtle up, down, left, and right using the arrow keys
+2) **Collision detection:** turtle interacting with prey and predator
    - 1st instance: turtle “eats” fish → remove fish and earn +2 points/sand dollars
    - 2nd instance: shark “eats” turtle → lose 1 life 
-3) Dynamic Object Instantiation: as game progresses sharks spawn at faster speeds 
-4) Mouse Picking/Detection: player is able to decorate the aquarium by clicking the the item <br>
+3) _**Dynamic Object Instantiation:**_ as game progresses sharks spawn at faster speeds 
+4) _**Mouse Picking/Detection:**_ player is able to decorate the aquarium by clicking the the item <br>
    they want to buy and clicking an area on the screen where they want to place the item 
-5) Shadows: the animals swimming in the water casts shadows onto the sandy aquarium floor & onto default decorations 
-6) Texture & Shading: the fishes have scales and gradient-colored tails, the sharks have Gouraud shading, background environment 
+5) _**Shadows:**_ the animals swimming in the water casts shadows onto the sandy aquarium floor & onto default decorations 
+6) _**Texture & Shading:**_ the fishes have scales and gradient-colored tails, the sharks have Gouraud shading, background environment 
 uses an imported texture that rotates over time to mimic moving water, Jellyfish (purchasable item) have custom shading to mimic their transparency. 
-7) Sound: a chomping sound each time a turtle eats a fish and there is background music which can be toggled on and off
-8) Lighting: Light source from above that illuminates the entire tank, can change color when ‘c’ is pressed to mimic color-changing features of real life fish tanks
-9) Camera: Camera view is changed during the intro animation 
-10) Animation: Intro scene provides a storyline for the game + behavioral animation on jellyfish & squid to imitate its real-life movements
+7) _**Sound:**_ a chomping sound each time a turtle eats a fish and there is background music which can be toggled on and off
+8) _**Lighting:**_ Light source from above that illuminates the entire tank, can change color when ‘c’ is pressed to mimic color-changing features of real life fish tanks
+9) _**Camera:**_ Camera view is changed during the intro animation 
+10) _**Animation:**_ Intro scene provides a storyline for the game + behavioral animation on jellyfish & squid to imitate its real-life movements
 
 ## Bugs
 - Sharks may at times swim through each other 
