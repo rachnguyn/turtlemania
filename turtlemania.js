@@ -520,7 +520,9 @@ export class TurtleMania extends Base_Scene {
               
                 // draw loading screen with fish animations
                 if (time_in_sec > time_loading_screen && time_in_sec < time_loading_screen_end) {
+                    this.loading_sound.muted = true;
                     this.loading_sound.play();
+                    
                     this.shapes.square.draw(context, program_state, model_transform.times(Mat4.translation(-5,9,10,0)).times(Mat4.scale(15, 10, 1)),this.materials.eye);   
 
                     let loading_transform = Mat4.identity().times(Mat4.translation(-7.5,13,11,0)).times(Mat4.scale(1.2,1.2,0.2,5));
