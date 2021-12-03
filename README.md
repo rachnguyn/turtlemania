@@ -49,6 +49,7 @@ uses an imported texture that rotates over time to mimic moving water, Jellyfish
 - Sounds lag when triggered too immediately after another sound
 - Placement of decorations/items often collides with other objects, may not be on the right z-axis  
 - Turtle movement is not very smooth
+- Pausing does not stop movement of animals; prevents collision detection only 
 
 ## Contributors
 
