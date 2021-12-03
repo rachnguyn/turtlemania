@@ -8,6 +8,9 @@ aquarium, all while avoiding the sharks. The more fish the player eats, the more
 which are displayed on the menu bar at the top. The turtle has three lives and each time it is "eaten" by a shark, the turtle 
 loses one life, the sharks will spawn faster and the turtle will scale slightly larger in size.
 
+### Example Demo
+![turtlemania](https://user-images.githubusercontent.com/91295945/144671500-05bc6433-7d39-4bbf-98fc-81bb4638f63d.gif)
+
 ## Run the Game
 1) MacOS: ./host.command <br>
    Windows: host.bat <br>
