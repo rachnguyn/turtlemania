@@ -31,7 +31,7 @@ class Base_Scene extends Scene {
         this.shark_sound = new Audio("assets/sharkbite.mp3"); 
         this.bling_sound = new Audio("assets/bling.mp3"); 
         this.loading_sound = new Audio("assets/backgroundmusic.mp3");
-        this.loading_sound.muted = true;
+        // this.loading_sound.muted = true; 
         this.gameover_sound = new Audio("assets/gameover.mp3"); 
         this.talking_sound = new Audio("assets/talking.mp3"); 
         this.woohoo_sound = new Audio("assets/woohooo.mp3"); 
