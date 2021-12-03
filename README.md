@@ -12,7 +12,7 @@ loses one life, the sharks will spawn faster and the turtle will scale slightly 
 ![turtlemania](https://user-images.githubusercontent.com/91295945/144671500-05bc6433-7d39-4bbf-98fc-81bb4638f63d.gif)
 
 ## Run the Game
-https://rachnguyn.github.io/turtlemania/ <br> (must click on the loading screen to queue loading music) <br> <br>
+https://rachnguyn.github.io/turtlemania/ <br> (must click on loading screen at very start to queue loading music) <br> <br>
 or 
 1) MacOS: ./host.command <br>
    Windows: host.bat <br>
