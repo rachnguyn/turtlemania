@@ -47,9 +47,9 @@ uses an imported texture that rotates over time to mimic moving water, Jellyfish
 
 **Contributors**
 
-Rachel Nguyen // rachelnguyn@gmail.com // rachnguyn // 205213689
+Rachel Nguyen // rachelnguyn@gmail.com // rachnguyn 
 - Set up foundation/environment, shadows, mouse picking + detection, animations, sound effects, camera & lighting, <br>
   scene graph (creating the animals), aesthetics (texture, custom shading, loading/start/pause/gameover screens, objects) 
 
-Daniel Medina // dmedinag@g.ucla.edu // dmedinag29 // 204971333
+Daniel Medina // dmedinag@g.ucla.edu // dmedinag29 
 - Collision detection, point system, dynamic object instantiation, arrow-key interactions, texts
