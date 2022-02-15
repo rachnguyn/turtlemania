@@ -61,6 +61,3 @@ Rachel Nguyen // rachelnguyn@gmail.com // rachnguyn
 
 Daniel Medina // dmedinag@g.ucla.edu // dmedinag29 
 - Collision detection, point system, dynamic object instantiation, arrow-key interactions, texts
-
-Kimberly Sung // wansung186@gmail.com // kimsung12
-- Help with start & pause functions
